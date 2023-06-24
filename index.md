@@ -3,7 +3,11 @@
 ## Welcome to BananaCrumbs!
 
 Thank you for visiting bananacrumbs.us!  We are an American-based company which designs Software as a Service (SaaS) programs
-for individuals and (soon) enterprises!
+for individuals and enterprises!
+
+### Notice
+
+We have recently updated our terms of service: [www.bananacrumbs.us/terms-of-service](https://bananacrumbs.us/terms-of-service)
 
 ## Our Services
 

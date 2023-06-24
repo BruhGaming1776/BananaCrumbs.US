@@ -76,7 +76,7 @@ For information on accounts, please see https://bananacrumbs.us/faq
 - Billing
   - You may purchase time for BananaCrumbs services through our specific, linked pages in this agreement. These are not subscriptions, but rather an arbitrary amount of time added to your BananaCrumbs ID based on the package which you may select and pay for, which provides access to premium benefits and features once selected and paid for.
   - Purchases are not automatically reoccurring.
-  - The time added to your BananaCrumbs ID is counted as 30 (thirty) days from payment acceptance regardless of selected package.
+  - The time added to your BananaCrumbs ID is counted as an amount of days from payment acceptance depending on the selected package.
 
 - Promotions
   - BananaCrumbs, LLC. may occasionally offer temporary coupons, discounts, and more during arbitrary, announced periods of time for paid products and services. Specific terms and conditions of each promotion will be listed when the promotion is offered to users.

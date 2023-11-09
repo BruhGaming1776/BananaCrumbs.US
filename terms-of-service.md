@@ -84,7 +84,7 @@ We use Stripe as our payment processor.  Please read their Terms of Service and 
 For information on accounts, please see https://bananacrumbs.us/faq
 
 - Plans
-  - TempMailPlus plans offered by BananaCrumbs, LLC. include additional, premium benefits and features which paying users with a BananaCrumbs ID may utilize.
+  - TempMail Plus and TempMail Ultra plans offered by BananaCrumbs, LLC. include additional, premium benefits and features which paying users with a BananaCrumbs ID and TempMail Account may utilize.
   - For more information on plans, please see https://tempmail.lol/pricing.html
 
 - Billing
@@ -118,8 +118,8 @@ For information on accounts, please see https://bananacrumbs.us/faq
  
 - Premium Termination
   - We may stop offering premium features at any time, including in response to unforseen acts of god, or to comply with legal requirements in jurisdictions serviced by BananaCrumbs, LLC.
-  - If we terminate these services without cause, we will cancel your TempMailPlus time and refund a prorated portion of any paid service equal to the remaining, unused time.
-  - If we terminate these services with cause in respect to these terms, we reserve the right to hold moneys used for TempMailPlus time.
+  - If we terminate these services without cause, we will cancel your TempMail Plus and/or TempMail Ultra time and refund a prorated portion of any paid service equal to the remaining, unused time.
+  - If we terminate these services with cause in respect to these terms, we reserve the right to hold moneys used for TempMail Plus and/or TempMail Ultra time.
 
 ### Account Termination
 

@@ -25,9 +25,7 @@ By using our services you agree to the terms of service, as well as the privacy 
 
 ### Privacy Policy
 
-We provide a privacy policy for each of our services individually:
-- TempMail.LOL: https://tempmail.lol/privacy-policy.html
-- BananaCrumbs.US: https://
+We provide a global privacy policy for all of our services: https://tempmail.lol/privacy-policy.html
 
 ### Mission and Business Model
 
@@ -46,20 +44,36 @@ You agree to not abuse the API.  Common API abuse includes, but are not limited 
 - Intentionally trying to slow down, DDoS, or exploit the TempMail API.
 - Using our API to create your own API or service.
 
+You agree to not use our services for an purposes which violate United States Code or Arizona Revised Statutes.
+
 ### Account Usage and Responsibility Limits
 
 YOU are responsible for keeping your BananaCrumbs Account ID and MFA token safe.  When using your credentials in a program, ensure that,
 when the program is used, that the credentials are stored securely.  For open-source projects, do not upload your credentials.
 
 To use and purchase our products and services, you must be at least 18 (eighteen) years old in the United States, or of legal age in your jurisdiction.
-
-You are not allowed to use our services if you do not meet the minimum age requirements.
+- You are not allowed to use our services if you do not meet the minimum age requirements.
 
 ### Changes to Terms of Service
 
 We reserve the right to change the Terms of Service at any time without notice.
 
 We will post a notice on our websites https://bananacrumbs.us and https://tempmail.lol when updated, which will stay posted on the site for 1 (one) month after updating.
+
+### TempMail and BananaCrumbs as Brands
+
+TempMail and BananaCrumbs reserves the right to manage, protect, and enhance our brand image(s) through continued enhancements, public relations articles, product line and service widening or deepening, product testing, and other various methods of brand management.
+
+- Product testing
+  - We reserve the right to grant or revoke users' options to be randomly selected at our discretion to test a new product or service produced by TempMail and BananaCrumbs.
+  - Declining or accepting to test new products or services will not effect a user's ability to use or experience our services which are not in testing.
+  - Declining or accepting to test new products or services will not affect user's premium services.
+  - We reserve the right to use any selection methods to let users test these services as either probability or non-probability methods including simple random sampling, convenience sampling, and more.
+  - We reserve the right to start and stop testing new products or services at any time.
+
+TempMail and BananaCrumbs reserves the right to copyrighting new products or services before releases.
+
+TempMail and BananaCrumbs reserves the right to have users sign Non-Disclosure Agreements (NDA's) in relation to new products or services, which will come with their own terms and conditions when users sign to test a new product or service.
 
 ### Premium (Paid) Products
 
@@ -83,12 +97,20 @@ For information on accounts, please see https://bananacrumbs.us/faq
   - Time gained for premium benefits and features after paying discounted price(s) during this promotion will not incur additional costs for users during the gained time once payment is processed and accepted.
   - Users will not be able to gain additional time at a last given promotional price if the promotion expires. Users will need to wait until another promotion occurs if a date has passed which is specified in promotional terms and conditions to gain access to promotional prices again, which may be priced the same or different from the last promotion at the discretion of BananaCrumbs, LLC.
 
+- Auctions
+  - We provide auctions for domains which we do not wish to keep.
+  - We reserve the right to terminate this service at any time.
+  - For more information on auctions, please see https://tempmail.lol/auction.html
+  - For more information on terms and conditions for auctions, please see https://tempmail.lol/auctions-terms-of-service.html
+
 - Downgrades
   - After the given time on a service for your account runs out or expires, you will not be able to use the premium benefits and features on your account until you add more time to your BananaCrumbs ID.
+  - You may choose to add more time or not add more time at your discretion once your account is downgraded.
 
 - Price changes
   - We reserve the right to change the cost of any of our services; however, we will post an announcement 30 (thirty) days in advance on our website https://bananacrumbs.us as well as https://tempmail.lol/pricing.html
-  - Price changes may not exceed a 30% change (delta) from any given last price.
+  - Price changes may not exceed a 30% change (delta) to a new price.
+  - Prices may rise up to 30% or fall down to 30% of the original price(s) when we change our price(s).
   - Certain packages may be negotiated between us and specific users if requested by our contact email linked on the pricing website.
 
 - Refunds
@@ -96,7 +118,8 @@ For information on accounts, please see https://bananacrumbs.us/faq
  
 - Premium Termination
   - We may stop offering premium features at any time, including in response to unforseen acts of god, or to comply with legal requirements in jurisdictions serviced by BananaCrumbs, LLC.
-  - If we terminate these services, we'll cancel your TempMailPlus time and refund a prorated portion of any paid service equal to the remaining, unused time.
+  - If we terminate these services without cause, we will cancel your TempMailPlus time and refund a prorated portion of any paid service equal to the remaining, unused time.
+  - If we terminate these services with cause in respect to these terms, we reserve the right to hold moneys used for TempMailPlus time.
 
 ### Account Termination
 
@@ -105,9 +128,8 @@ We reserve the right to terminate your account at any time for any reason includ
 ### Maintenance
 
 We reserve the right to perform maintenance on our services at any time without notice.
-In the event of maintenance, we will post a notice on our websites: https://bananacrumbs.us and https://tempmail.lol
-
-Temporary downtime may occur during maintenance. During this time, you may not be able to access our services.
+- In the event of maintenance, we will post a notice on our websites: https://bananacrumbs.us and https://tempmail.lol
+- Temporary downtime may occur during maintenance. During this time, you may not be able to access our services.
 
 ### Third-party Website Terms
 
@@ -143,4 +165,4 @@ USERS AGREE TO DEFEND, INDEMNIFY, AND HOLD HARMLESS BANANACRUMBS, LLC., ITS PROD
 
 ### Governing Law
 
-THESE TERMS AND CONDITIONS SHALL BE GOVERNED BY THE LAWS OF THE STATE OF ARIZONA, UNITED STATES OF AMERICA, WITHOUT REGARD TO ITS CONFLICT OF LAW PROVISIONS.
+THESE TERMS AND CONDITIONS SHALL BE GOVERNED BY THE LAWS OF THE COUNTY OF MARICOPA, THE STATE OF ARIZONA, AND THE UNITED STATES OF AMERICA, WITHOUT REGARD TO ITS CONFLICT OF LAW PROVISIONS.

@@ -43,6 +43,7 @@ You agree to not abuse the API.  Common API abuse includes, but are not limited 
 - Consistently being rate-limited by our servers.
 - Intentionally trying to slow down, DDoS, or exploit the TempMail API.
 - Using our API to create your own API or service.
+- Scraping the data of our related websites and web services.
 
 You agree to not use our services for an purposes which violate United States Code or Arizona Revised Statutes.
 
@@ -51,8 +52,9 @@ You agree to not use our services for an purposes which violate United States Co
 YOU are responsible for keeping your BananaCrumbs Account ID and MFA token safe.  When using your credentials in a program, ensure that,
 when the program is used, that the credentials are stored securely.  For open-source projects, do not upload your credentials.
 
-To use and purchase our products and services, you must be at least 18 (eighteen) years old in the United States, or of legal age in your jurisdiction.
-- You are not allowed to use our services if you do not meet the minimum age requirements.
+To use and purchase our products and services:
+- You must be at least 18 (eighteen) years old in the United States, or of legal age in your jurisdiction.
+- You are authorized to use our services if you are a legal entity or company and have permission to bind your entity to these terms.
 
 ### Changes to Terms of Service
 
@@ -130,6 +132,7 @@ We reserve the right to terminate your account at any time for any reason includ
 We reserve the right to perform maintenance on our services at any time without notice.
 - In the event of maintenance, we will post a notice on our websites: https://bananacrumbs.us and https://tempmail.lol
 - Temporary downtime may occur during maintenance. During this time, you may not be able to access our services.
+- We do not guarantee perfect service as temporary service outages may affect users' experience in the course of business or personal usage.
 
 ### Third-party Website Terms
 
@@ -149,7 +152,7 @@ We are not and will not be liable for any activities from these websites.
 
 ### Intellectual Property Rights
 
-ALL INTELLECTUAL PROPERTY RIGHTS OVER AND IN RESPECT OF THE PRODUCTS AND SERVICES PROVIDED BY BANANACRUMBS, LLC. ARE OWNED BY BANANACRUMBS, LLC.
+ALL INTELLECTUAL PROPERTY RIGHTS OVER AND IN RESPECT OF THE PRODUCTS AND SERVICES PROVIDED BY BANANACRUMBS, LLC. ARE OWNED BY BANANACRUMBS, LLC. NO CLAUSES IN THESE TERMS AND CONDITIONS GIVES YOU THE RIGHT TO USE, REUSE, OR RESELL THE DOMAIN NAMES, LOGOS, SERVICES, OR TRADEMARKS OWNED BY BANANACRUMBS, LLC.
 
 ### Software Use License
 
@@ -159,9 +162,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 IN NO EVENT SHALL BANANACRUMBS, LLC. BE LIABLE FOR ANY CLAIM, DAMAGES, ACTS OF GOD, OR OTHER LIABILITY, WHETHER IN AN ACT OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+### No Waiver
+
+FAILURE TO COMPLY WITH THIS AGREEMENT DOES NOT MEAN THAT WE GIVE UP RIGHTS IN THESE TERMS, EVEN IF AN IMMEDIATE RESPONSE IS NOT ACTED UPON. 
+
 ### Indemnification
 
-USERS AGREE TO DEFEND, INDEMNIFY, AND HOLD HARMLESS BANANACRUMBS, LLC., ITS PRODUCTS AND SERVICES FROM AND AGAINST ANY CLAIMS, LIABILITIES, DAMAGES, JUDGEMENTS, AWARDS, LOSSES, COSTS, EXPENSES, OR FEES (INCLUDING REASONABLE ATTORNEYS’ FEES) RESULTING FROM USERS’ CONTRIBUTIONS OR VIOLATION OF THESE TERMS AND CONDITIONS.
+USERS AGREE TO DEFEND, INDEMNIFY, AND HOLD HARMLESS BANANACRUMBS, LLC., ITS PRODUCTS AND SERVICES FROM AND AGAINST ANY CLAIMS, LIABILITIES, DAMAGES, JUDGEMENTS, AWARDS, PUNITIVE DAMAGES, LOSSES, COSTS, EXPENSES, OR FEES (INCLUDING REASONABLE ATTORNEYS’ FEES) RESULTING FROM USERS’ CONTRIBUTIONS OR VIOLATION OF THESE TERMS AND CONDITIONS.
 
 ### Governing Law
 

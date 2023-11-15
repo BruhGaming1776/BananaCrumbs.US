@@ -133,6 +133,7 @@ We reserve the right to perform maintenance on our services at any time without 
 - In the event of maintenance, we will post a notice on our websites: https://bananacrumbs.us and https://tempmail.lol
 - Temporary downtime may occur during maintenance. During this time, you may not be able to access our services.
 - We do not guarantee perfect service as temporary service outages may affect users' experience in the course of business or personal usage.
+- We may switch unrelated third party hosting providers which provide TempMail and BananaCrumbs service at any time for reasons including service termination, service closure, economic reasons, response to unforseen acts of god, or to comply with legal requirements in jurisdictions serviced by BananaCrumbs, LLC.
 
 ### Third-party Website Terms
 
@@ -164,7 +165,7 @@ IN NO EVENT SHALL BANANACRUMBS, LLC. BE LIABLE FOR ANY CLAIM, DAMAGES, ACTS OF G
 
 ### No Waiver
 
-FAILURE TO COMPLY WITH THIS AGREEMENT DOES NOT MEAN THAT WE GIVE UP RIGHTS IN THESE TERMS, EVEN IF AN IMMEDIATE RESPONSE IS NOT ACTED UPON. 
+FAILURE TO IMMEDIATELY RESPOND TO NON-COMPLIANCE WITH THIS AGREEMENT DOES NOT MEAN THAT WE GIVE UP RIGHTS IN THESE TERMS 
 
 ### Indemnification
 

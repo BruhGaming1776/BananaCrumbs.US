@@ -3,7 +3,7 @@
 We are aiming to be as privacy-respecting as possible, while still maintaining user functionality, that’s why we’ve made a privacy policy which everyone can read.  Please note that untitled-bot is a bot for Discord; however, we are not affiliated with Discord or any of their partners/associates.
 
 
-## Data Collection
+### Data Collection
 We collect the following data on users:
 -	Discord user ID.
 -	Discord guild (commonly known as a server) ID.
@@ -23,11 +23,11 @@ Please note that images which are outputted through our filter are stored on our
 
 Discord does not send message content to untitled-bot; however, we receive when a user sends a message to increase a user’s experience points, but is not stored persistently on our server.
 
-## Data Sharing
+### Data Sharing
 Unless required by law or by Discord, we will not share any data of our users with any third party, unless in the event of a merger.
 
 Untitled-bot is under the jurisdiction of Phoenix, Arizona, and the United States of America, in Maricopa County.
 
-## Terms of Service
+### Terms of Service
 Please see https://bananacrumbs.us/untitled-bot/terms.txt
 

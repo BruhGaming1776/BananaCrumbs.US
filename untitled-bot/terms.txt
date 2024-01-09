@@ -38,3 +38,12 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 12. Liability
 IN NO EVENT SHALL BANANACRUMBS, LLC. BE LIABLE FOR ANY CLAIM, DAMAGES, ACTS OF GOD, OR OTHER LIABILITY, WHETHER IN AN ACT OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+13. User Content Responsibility
+
+    Users are solely responsible for the content they upload or interact with using "untitled-bot."
+    Uploading or using copyrighted, illegal, or inappropriate content is strictly prohibited.
+    The developer of "untitled-bot" assumes no responsibility for user-uploaded content.
+    Any legal consequences arising from the misuse of "untitled-bot" with such content will be the user's responsibility.
+
+
+

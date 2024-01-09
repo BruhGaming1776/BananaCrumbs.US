@@ -2,7 +2,7 @@
 
 BananaCrumbs, LLC., Terms of Service
 
-Copyright © 2023 BananaCrumbs, LLC. All rights reserved.
+Copyright © 2023-2024 BananaCrumbs, LLC. All rights reserved.
 
 ### Should any part of these sections be deemed invalid, the remaining sections shall remain valid and in effect. Bananacrumbs' affiliates, suppliers, licensors, and distributors are regarded as third-party beneficiaries to this section.
 

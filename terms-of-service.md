@@ -122,6 +122,12 @@ For information on accounts, please see https://bananacrumbs.us/faq
   - We may stop offering premium features at any time, including in response to unforseen acts of god, or to comply with legal requirements in jurisdictions serviced by BananaCrumbs, LLC.
   - If we terminate these services without cause, we will cancel your TempMail Plus and/or TempMail Ultra time and refund a prorated portion of any paid service equal to the remaining, unused time.
   - If we terminate these services with cause in respect to these terms, we reserve the right to hold moneys used for TempMail Plus and/or TempMail Ultra time.
+  - Users not related to the TempMail Premium and/or TempMail Ultra account holder(s) of service(s) affected by terminations may be prompted messages saying they are unable to access TempMail and/or BananaCrumbs services at that time.
+  - You may submit an appeal at any time if you believe the action(s) was/were not in violation of these Terms of Service here: appeals@bananacrumbs.us
+ 
+- Account Freezes / Temporary Suspensions
+  - We reserve the right to freeze and/or temporarily suspend TempMail Plus and/or TempMail Ultra users access to their accounts at any time.
+  - We will review the actions on your TempMail Plus and/or TempMail Ultra account(s) to determine if you have violated these Terms of Service at any time while your account is in a freeze / suspension.
 
 ### Account Termination
 

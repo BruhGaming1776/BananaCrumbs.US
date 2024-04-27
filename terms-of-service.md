@@ -20,8 +20,9 @@ By using our services you agree to the terms of service, as well as the privacy 
 5. “EMAIL(S)” refer to messages sent electronically through Internet services provided by third parties.
 6. "SERVICE(S)" refer to BananaCrumbs, LLC.'s apps, websites, programs, updates and other products offered by us.
 7. "BENEFIT(S)" and "FEATURE(S)" refer to additional services for paying users of TempMail.
-8. "PACKAGE" refers to tiers of premium services offered by BananaCrumbs, LLC. for additional cost to currently provided, free services, or to services with different prices.
-9. "BANANACRUMBS ID" refers to a 24-letter ID that is obtained through our account website: https://passport.bananacrumbs.us
+8. "PREMIUM" refers to TempMail's Plus, Ultra, and Titanium products.
+9. "PACKAGE" refers to tiers of premium services offered by BananaCrumbs, LLC. for additional cost to currently provided, free services, or to services with different prices.
+10. "BANANACRUMBS ID" refers to a 24-letter ID that is obtained through our account website: https://passport.bananacrumbs.us
 
 ### Privacy Policy
 
@@ -45,7 +46,7 @@ You agree to not abuse the API.  Common API abuse includes, but are not limited 
 - Using our API to create your own API or service.
 - Scraping the data of our related websites and web services.
 
-You agree to not use our services for an purposes which violate United States Code or Arizona Revised Statutes.
+You agree to not use our services for any purposes which violate United States Code or Arizona Revised Statutes.
 
 ### Account Usage and Responsibility Limits
 
@@ -77,6 +78,11 @@ TempMail and BananaCrumbs reserves the right to copyrighting new products or ser
 
 TempMail and BananaCrumbs reserves the right to have users sign Non-Disclosure Agreements (NDA's) in relation to new products or services, which will come with their own terms and conditions when users sign to test a new product or service.
 
+### TempMail Basic
+ - TempMail Basic refers to our free base offerings unrelated to our premium services.
+ - No sign up is required.
+ - For more, please see https://tempmail.lol/terms-of-use.html and https://tempmail.lol/privacy-policy.html
+
 ### Premium (Paid) Products
 
 "BananaCrumbs ID" and "Account" are interchangeable terms.
@@ -86,8 +92,9 @@ We use Stripe as our payment processor.  Please read their Terms of Service and 
 For information on accounts, please see https://bananacrumbs.us/faq
 
 - Plans
-  - TempMail Plus and TempMail Ultra plans offered by BananaCrumbs, LLC. include additional, premium benefits and features which paying users with a BananaCrumbs ID and TempMail Account may utilize.
-  - For more information on plans, please see https://tempmail.lol/pricing.html
+  - TempMail Plus, TempMail Ultra, and TempMail Titanium plans offered by BananaCrumbs, LLC. start above our TempMail Basic offerings and include accumulatively additional benefits and features as price generally increases, which paying users with a BananaCrumbs ID and TempMail Account may utilize.
+  - We reserve the right to add offerings or remove offerings of premium plans at any time. Users will continue to receive the plan benefits until the end of the billing cycle if a change to any premium plan(s) occurs.
+  - For more information on individual plans, please see https://tempmail.lol/pricing.html
 
 - Billing
   - You may purchase time for BananaCrumbs services through our specific, linked pages in this agreement. These are not subscriptions, but rather an arbitrary amount of time added to your BananaCrumbs ID based on the package which you may select and pay for, which provides access to premium benefits and features once selected and paid for.
@@ -98,12 +105,6 @@ For information on accounts, please see https://bananacrumbs.us/faq
   - BananaCrumbs, LLC. may occasionally offer temporary coupons, discounts, and more during arbitrary, announced periods of time for paid products and services. Specific terms and conditions of each promotion will be listed when the promotion is offered to users.
   - Time gained for premium benefits and features after paying discounted price(s) during this promotion will not incur additional costs for users during the gained time once payment is processed and accepted.
   - Users will not be able to gain additional time at a last given promotional price if the promotion expires. Users will need to wait until another promotion occurs if a date has passed which is specified in promotional terms and conditions to gain access to promotional prices again, which may be priced the same or different from the last promotion at the discretion of BananaCrumbs, LLC.
-
-- Auctions
-  - We provide auctions for domains which we do not wish to keep.
-  - We reserve the right to terminate this service at any time.
-  - For more information on auctions, please see https://tempmail.lol/auction.html
-  - For more information on terms and conditions for auctions, please see https://tempmail.lol/auctions-terms-of-service.html
 
 - Downgrades
   - After the given time on a service for your account runs out or expires, you will not be able to use the premium benefits and features on your account until you add more time to your BananaCrumbs ID.
@@ -120,14 +121,20 @@ For information on accounts, please see https://bananacrumbs.us/faq
  
 - Premium Termination
   - We may stop offering premium features at any time, including in response to unforseen acts of god, or to comply with legal requirements in jurisdictions serviced by BananaCrumbs, LLC.
-  - If we terminate these services without cause, we will cancel your TempMail Plus and/or TempMail Ultra time and refund a prorated portion of any paid service equal to the remaining, unused time.
-  - If we terminate these services with cause in respect to these terms, we reserve the right to hold moneys used for TempMail Plus and/or TempMail Ultra time.
-  - Users not related to the TempMail Premium and/or TempMail Ultra account holder(s) of service(s) affected by terminations may be prompted messages saying they are unable to access TempMail and/or BananaCrumbs services at that time.
+  - If we terminate these services without cause, we will cancel your premium plan's specified time and refund a prorated portion of any paid service equal to the remaining, unused time.
+  - If we terminate these services with cause in respect to these terms, we reserve the right to hold moneys used for premium plans.
+  - Users not related to the premium account holder(s) of service(s) affected by terminations may be prompted messages saying they are unable to access TempMail and/or BananaCrumbs services at that time.
   - You may submit an appeal at any time if you believe the action(s) was/were not in violation of these Terms of Service here: appeals@bananacrumbs.us
  
 - Account Freezes / Temporary Suspensions
-  - We reserve the right to freeze and/or temporarily suspend TempMail Plus and/or TempMail Ultra users access to their accounts at any time.
-  - We will review the actions on your TempMail Plus and/or TempMail Ultra account(s) to determine if you have violated these Terms of Service at any time while your account is in a freeze / suspension.
+  - We reserve the right to freeze and/or temporarily suspend premium users access to their accounts at any time.
+  - We will review the actions on your premium account(s) to determine if you have violated these Terms of Service at any time while your account is in a freeze / suspension.
+
+### Auctions
+  - We may provide auctions for domains which we do not wish to keep.
+  - We reserve the right to commence and terminate this service at any time.
+  - For more information on auctions, please see https://tempmail.lol/auction.html
+  - For more information on terms and conditions for auctions, please see https://tempmail.lol/auctions-terms-of-service.html
 
 ### Account Termination
 

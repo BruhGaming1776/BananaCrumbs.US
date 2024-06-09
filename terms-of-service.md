@@ -23,10 +23,11 @@ By using our services you agree to the terms of service, as well as the privacy 
 8. "PREMIUM" refers to TempMail's Plus, Ultra, and Titanium products.
 9. "PACKAGE" refers to tiers of premium services offered by BananaCrumbs, LLC. for additional cost to currently provided, free services, or to services with different prices.
 10. "BANANACRUMBS ID" refers to a 24-letter ID that is obtained through our account website: https://passport.bananacrumbs.us
+11. "EVASION" and "CIRCUMVENT" refers to users operating under newer, different accounts which have been previously suspended for violating these terms or attempting to bypass these terms without permission.
 
 ### Privacy Policy
 
-We provide a global privacy policy for all of our services: https://tempmail.lol/privacy-policy.html
+We provide a global privacy policy for all of our services: https://tempmail.lol/privacy-policy
 
 ### Mission and Business Model
 
@@ -46,6 +47,8 @@ You agree to not abuse the API.  Common API abuse includes, but are not limited 
 - Using our API to create your own API or service.
 - Scraping the data of our related websites and web services.
 
+You agree not to evade or circumvent these terms.
+
 You agree to not use our services for any purposes which violate United States Code or Arizona Revised Statutes.
 
 ### Account Usage and Responsibility Limits
@@ -56,6 +59,14 @@ when the program is used, that the credentials are stored securely.  For open-so
 To use and purchase our products and services:
 - You must be at least 18 (eighteen) years old in the United States, or of legal age in your jurisdiction.
 - You are authorized to use our services if you are a legal entity or company and have permission to bind your entity to these terms.
+
+User suspension policy on evasion and circumventing
+- We reserve the right to permenantly suspended accounts if we believe the same entity or user which has violated these terms in previous, and temporary or permenant suspensions is operating under a newer account.
+- You are not allowed to evade or circumvent these terms.
+- You are not allowed to operate as an authorized user on behalf of a suspended user or entity.
+- You are not allowed to repurpose a previously authorized account, whether active or inactive, to evade these terms.
+- You are not allowed to sell nor otherwise transfer your BananaCrumbs ID to a suspended user.
+- You are not allowed to imitate a user which has been suspended for violating these terms.
 
 ### Changes to Terms of Service
 
@@ -81,7 +92,7 @@ TempMail and BananaCrumbs reserves the right to have users sign Non-Disclosure A
 ### TempMail Basic
  - TempMail Basic refers to our free base offerings unrelated to our premium services.
  - No sign up is required.
- - For more, please see https://tempmail.lol/terms-of-use.html and https://tempmail.lol/privacy-policy.html
+ - For more, please see https://tempmail.lol/terms-of-use and https://tempmail.lol/privacy-policy
 
 ### Premium (Paid) Products
 
@@ -94,7 +105,7 @@ For information on accounts, please see https://bananacrumbs.us/faq
 - Plans
   - TempMail Plus, TempMail Ultra, and TempMail Titanium plans offered by BananaCrumbs, LLC. start above our TempMail Basic offerings and include accumulatively additional benefits and features as price generally increases, which paying users with a BananaCrumbs ID and TempMail Account may utilize.
   - We reserve the right to add offerings or remove offerings of premium plans at any time. Users will continue to receive the plan benefits until the end of the billing cycle if a change to any premium plan(s) occurs.
-  - For more information on individual plans, please see https://tempmail.lol/pricing.html
+  - For more information on individual plans, please see https://tempmail.lol/pricing
 
 - Billing
   - You may purchase time for BananaCrumbs services through our specific, linked pages in this agreement. These are not subscriptions, but rather an arbitrary amount of time added to your BananaCrumbs ID based on the package which you may select and pay for, which provides access to premium benefits and features once selected and paid for.
@@ -111,7 +122,7 @@ For information on accounts, please see https://bananacrumbs.us/faq
   - You may choose to add more time or not add more time at your discretion once your account is downgraded.
 
 - Price changes
-  - We reserve the right to change the cost of any of our services; however, we will post an announcement 30 (thirty) days in advance on our website https://bananacrumbs.us as well as https://tempmail.lol/pricing.html
+  - We reserve the right to change the cost of any of our services; however, we will post an announcement 30 (thirty) days in advance on our website https://bananacrumbs.us as well as https://tempmail.lol/pricing
   - Price changes may not exceed a 30% change (delta) to a new price.
   - Prices may rise up to 30% or fall down to 30% of the original price(s) when we change our price(s).
   - Certain packages may be negotiated between us and specific users if requested by our contact email linked on the pricing website.
@@ -133,8 +144,8 @@ For information on accounts, please see https://bananacrumbs.us/faq
 ### Auctions
   - We may provide auctions for domains which we do not wish to keep.
   - We reserve the right to commence and terminate this service at any time.
-  - For more information on auctions, please see https://tempmail.lol/auction.html
-  - For more information on terms and conditions for auctions, please see https://tempmail.lol/auctions-terms-of-service.html
+  - For more information on auctions, please see https://tempmail.lol/auction
+  - For more information on terms and conditions for auctions, please see https://tempmail.lol/auctions-terms-of-service
 
 ### Account Termination
 
@@ -178,7 +189,7 @@ IN NO EVENT SHALL BANANACRUMBS, LLC. BE LIABLE FOR ANY CLAIM, DAMAGES, ACTS OF G
 
 ### No Waiver
 
-FAILURE TO IMMEDIATELY RESPOND TO NON-COMPLIANCE WITH THIS AGREEMENT DOES NOT MEAN THAT WE GIVE UP RIGHTS IN THESE TERMS 
+FAILURE TO IMMEDIATELY RESPOND TO NON-COMPLIANCE WITH THIS AGREEMENT DOES NOT MEAN THAT WE GIVE UP RIGHTS IN THESE TERMS.
 
 ### Indemnification
 

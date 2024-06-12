@@ -20,10 +20,11 @@ By using our services you agree to the terms of service, as well as the privacy 
 5. “EMAIL(S)” refer to messages sent electronically through Internet services provided by third parties.
 6. "SERVICE(S)" refer to BananaCrumbs, LLC.'s apps, websites, programs, updates and other products offered by us.
 7. "BENEFIT(S)" and "FEATURE(S)" refer to additional services for paying users of TempMail.
-8. "PREMIUM" refers to TempMail's Plus, Ultra, and Titanium products.
+8. "PREMIUM" refers to TempMail's Plus and Ultra products.
 9. "PACKAGE" refers to tiers of premium services offered by BananaCrumbs, LLC. for additional cost to currently provided, free services, or to services with different prices.
 10. "BANANACRUMBS ID" refers to a 24-letter ID that is obtained through our account website: https://passport.bananacrumbs.us
 11. "EVASION" and "CIRCUMVENT" refers to users operating under newer, different accounts which have been previously suspended for violating these terms or attempting to bypass these terms without permission.
+12. "PAY PERIOD" refers to the approximately 1 month period worth of time given to customers when they buy a premium product.
 
 ### Privacy Policy
 
@@ -59,6 +60,9 @@ when the program is used, that the credentials are stored securely.  For open-so
 To use and purchase our products and services:
 - You must be at least 18 (eighteen) years old in the United States, or of legal age in your jurisdiction.
 - You are authorized to use our services if you are a legal entity or company and have permission to bind your entity to these terms.
+
+Accessing BananaCrumbs services may require personal computer usage or mobile device usage.
+- You are responsible for any internet provider or mobile service provider fees and charges from third parties you incur while accessing our services.
 
 User suspension policy on evasion and circumventing
 - We reserve the right to permenantly suspended accounts if we believe the same entity or user which has violated these terms in previous, and temporary or permenant suspensions is operating under a newer account.
@@ -103,13 +107,13 @@ We use Stripe as our payment processor.  Please read their Terms of Service and 
 For information on accounts, please see https://bananacrumbs.us/faq
 
 - Plans
-  - TempMail Plus, TempMail Ultra, and TempMail Titanium plans offered by BananaCrumbs, LLC. start above our TempMail Basic offerings and include accumulatively additional benefits and features as price generally increases, which paying users with a BananaCrumbs ID and TempMail Account may utilize.
+  - TempMail Plus and TempMail Ultra plans offered by BananaCrumbs, LLC. start above our TempMail Basic offerings and include accumulatively additional benefits and features as price generally increases, which paying users with a BananaCrumbs ID and TempMail Account may utilize.
   - We reserve the right to add offerings or remove offerings of premium plans at any time. Users will continue to receive the plan benefits until the end of the billing cycle if a change to any premium plan(s) occurs.
   - For more information on individual plans, please see https://tempmail.lol/pricing
 
 - Billing
   - You may purchase time for BananaCrumbs services through our specific, linked pages in this agreement. These are not subscriptions, but rather an arbitrary amount of time added to your BananaCrumbs ID based on the package which you may select and pay for, which provides access to premium benefits and features once selected and paid for.
-  - Purchases are not automatically reoccurring.
+  - Purchases are  automatically reoccurring.
   - The time added to your BananaCrumbs ID is counted as an amount of days from payment acceptance depending on the selected package.
 
 - Promotions
@@ -127,8 +131,19 @@ For information on accounts, please see https://bananacrumbs.us/faq
   - Prices may rise up to 30% or fall down to 30% of the original price(s) when we change our price(s).
   - Certain packages may be negotiated between us and specific users if requested by our contact email linked on the pricing website.
 
-- Refunds
-  - Refunds are automatically processed for BananaCrumbs IDs which were incorrectly entered in the payment page. You may not request a refund, unless required by law in your jurisdiction.
+- Refunds and chargebacks
+  - Refunds are automatically processed for BananaCrumbs IDs which were incorrectly entered in the payment page.
+  - Refund amounts can not exceed the purchase price of the two (2) most recent pay periods of the TempMail premium product(s) being refunded which have been purchased within the 45 days calendar days preceeding the day a refund request is received.
+  - Refunds can be a blend of multiple different TempMail premium products up to a maximum of two (2).
+  - Refunds per customer can occur at most one (1) time per calendar year.
+  - Refunds must meet the following requirements to be processed successfully:
+      - Refund requests must be made from a card number with a correctly matching CVC and expiration date.
+      - Refund requests must not have any currently outstanding or processed refunds within the current calendar year that the pay period(s) are being requested in.
+      - Refunds can currently only be accepted from the following countries: Australia, Austria, Belgium, Bulgaria, Canada, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Mexico, Monaco, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, San Marino, Singapore, South Korea, Spain, Sweden, Switzerland, United Kingdom, United States of America, Vietnam.
+  - Request refunds by emailing: contact@bananacrumbs.us
+  - Chargebacks without contacting us first may result in inadvertently committing fraud.
+  - BananaCrumbs, LLC reserves the right to re-represent with evidence these terms being violated in cases of chargebacks.
+  - BananaCrumbs, LLC reserves the right to request arbitration in cases of chargebacks.
  
 - Premium Termination
   - We may stop offering premium features at any time, including in response to unforseen acts of god, or to comply with legal requirements in jurisdictions serviced by BananaCrumbs, LLC.
